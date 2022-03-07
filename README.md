@@ -11,7 +11,7 @@
 
 - Converts any lengthy link in short link!
 - API used : https://api.shrtco.de/v2/ 
-- Throws error if found!
+- Throws error if found!!
 - Copy function for copying the short link.
 - Completely responsive UI
 
